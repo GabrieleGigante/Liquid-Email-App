@@ -1,0 +1,29 @@
+[
+  {
+    "icon": "https://cdn.pixabay.com/photo/2015/12/11/11/43/google-1088004_960_720.png",
+    "sender": "Google",
+    "object": "This is an email from Google Inc.",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "isRead": true,
+    "category": "overlords",
+    "time": "22:22"
+  },
+  {
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/600px-Instagram_logo_2016.svg.png",
+    "sender": "Instagram",
+    "object": "This is an email from Instagram Inc.",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "isRead": false,
+    "category": "social",
+    "time": "23FEB"
+  },
+  {
+    "icon": "https://www.brandforum.it/media/LogoTale/brandforum_logotale_snapchat_logo3.png",
+    "sender": "Snapchat",
+    "object": "This is an email from Snapchat Inc.",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "isRead": true,
+    "category": "social",
+    "time": "22FEB"
+  }
+]
